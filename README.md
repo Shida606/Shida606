@@ -1,8 +1,8 @@
 - 👋 Selamün Aleyküm Oruspu Cocukları
 - 👀 Ne Sikime Girdin Bilmiyom
-- 🌱 Ama Ananı Sikeyim
-- 💞️ Kalın Sağlıcakla
-- 📫 İnstagram : shida.d
+- 🌱 Developer Değilim
+- 💞️ Kod Çalmaya Geldiysen Yanlış Yerdesin :D
+- 📫 İnstagram : shida.xd
 - 📫 Discord : https://discord.com/users/788790215484899328
 
 <!---
