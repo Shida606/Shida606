@@ -4,6 +4,7 @@ Selam, ben İbrahim! 2020 Aralık'tan beri Discord botları ile uğraşıyorum.
 
 Yakın zamanda sunacağım projelerim ile ilgili herhangi bir sorun ile karşılaştığınızda bana Discord veya Instagram'dan Ulaşabilirsiniz.
 
+---![](https://komarev.com/ghpvc/?username=Shida606&color=red)---
 
 <p align="center">
  <a href="https://discord.com/users/788790215484899328" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
